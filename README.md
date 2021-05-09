@@ -27,7 +27,7 @@ The second visualization provides the length of time that bikes are checked out 
 
 Open the file containing Checkout_Times_by_Gender.
 
-![Checkout_Times_by_Gender](/UFOs/static/images/Checkout_TImes_by_Gender.png)
+![Checkout_Times_by_Gender](/resources_1/Checkout_TImes_by_Gender.png)
 
 Close the file.
 
@@ -40,7 +40,7 @@ The third visualization provides the number of bike trips by weekday for each ho
 
 Open the file containing Trips_by_Weekday_per_Hour.
 
-![Trips_by_Weekday_per_Hour](/UFOs/static/images/Trips_by_Weekday_per_Hour.png)
+![Trips_by_Weekday_per_Hour](/resources_1/Trips_by_Weekday_per_Hour.png)
 
 Close the file.
 
@@ -53,7 +53,7 @@ The fourth visualization provides the number of bike trips by gender for each ho
 
 Open the file containing Trips_by_Gender.
 
-![Trips_by_Gender](/UFOs/static/images/Trips_by_Gender.png)
+![Trips_by_Gender](/resources_1/Trips_by_Gender.png)
 
 Close the file.
 
@@ -66,7 +66,7 @@ The fifth visualization provides the number of bike trips by gender for each hou
 
 Open the file containing User_Trips_by_Gender_by_Weekday.
 
-![User_Trips_by_Gender_by_Weekday](/UFOs/static/images/User_Trips_by_Gender_by_Weekday.png)
+![User_Trips_by_Gender_by_Weekday](/resources_1/User_Trips_by_Gender_by_Weekday.png)
 
 Close the file.
 	
@@ -80,7 +80,7 @@ image, there is a geographical map of the bike rental starting points in Des Moi
 
 Open the file containing Top_Starting_Location.
 
-![Top_Starting_Location](/UFOs/static/images/Top_Starting_Location.png)
+![Top_Starting_Location](/resources_1/Top_Starting_Location.png)
 
 Close the file.
 
@@ -93,7 +93,7 @@ The seventh visualization provides a geographical mapping location of the ending
 
 Open the file containing Top_Ending_Location.
 
-![Top_Ending_Location](/UFOs/static/images/Top_Ending_Location.png)
+![Top_Ending_Location](/resources_1/Top_Ending_Location.png)
 
 Close the file.
 
@@ -114,7 +114,7 @@ The first additional visualization provides the number of bike trips by customer
 
 Open the file containing Weekday_per_Hour.
 
-![Weekday_per_Hour](/UFOs/static/images/Weekday_per_Hour.png)
+![Weekday_per_Hour](/resources_1/Weekday_per_Hour.png)
 
 Close the file.
 
@@ -127,7 +127,7 @@ The second additional visualization provides the number of bike trips by custome
 
 Open the file containing Trips_by_Users_Hours_per_Month.
 
-![Trips_by_Users_Hours_per_Month](/UFOs/static/images/Trips_by_Users_Hours_per_Month.png)
+![Trips_by_Users_Hours_per_Month](/resources_1/Trips_by_Users_Hours_per_Month.png)
 
 Close the file.
 	--IMAGE HERE--
