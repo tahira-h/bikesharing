@@ -17,7 +17,7 @@ The first visualization provides the length of time that bikes are checked out f
 
 Open the file containing Number_of_Rides.
 
-![Number_of_Rides](bikesharing/resources_1/Number_of_Rides.png)
+![Number_of_Rides](/resources_1/Number_of_Rides.png)
 
 Close the file.
 
