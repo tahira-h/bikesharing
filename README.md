@@ -51,7 +51,7 @@ Open the file containing Trips_by_Gender.
 
 Close the file.
 
-The fifth visualization provides the number of bike trips by gender for each hour for each day of the week. As shown in the image, female customers have a lower rate of bike trips each hour for each day of the week, in comparison to its subscriber counterparts with a higher rate of bike trips.Male customers have a lower rate of bike trips each hour for each day of the week, in comparison to its subscriber counterparts with a higher rate of bike trips. Unknown customers have a higher rate of bike trips each hour for each day of the week, in comparison to its subscriber counterparts with a lower rate of bike trips. 
+The fifth visualization provides the number of bike trips by gender for each hour for each day of the week. As shown in the image, female customers have a lower rate of bike trips each hour for each day of the week, in comparison to its female subscriber counterparts with a higher rate of bike trips. Male customers have a lower rate of bike trips each hour for each day of the week, in comparison to its male subscriber counterparts with a higher rate of bike trips. Unknown customers have a higher rate of bike trips each hour for each day of the week, in comparison to its unknown subscriber counterparts with a lower rate of bike trips. 
 
 [link to dashboard](https://public.tableau.com/profile/tahira3223#!/vizhome/UserTripsbyGenderbyWeekday_16204421135930/UserTripsbyGenderbyWeekday?publish=yes)
 
