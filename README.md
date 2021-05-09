@@ -53,7 +53,7 @@ The fourth visualization provides the number of bike trips by gender for each ho
 
 Open the file containing Trips_by_Gender.
 
-![Trips_by_Gender](/resources_1/Trips_by_Gender.png)
+![Trips_by_Gender](/resources_1/Trips_by_Gender_Weekday_per_Hour.png)
 
 Close the file.
 
