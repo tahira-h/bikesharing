@@ -13,10 +13,7 @@ Results of this Analysis
 
 The first visualization provides the length of time that bikes are checked out for all all riders. 
 
-[link to my dashboard](https://public.tableau.com/profile/tahira3223#!/vizhome/NumberofRides_16203860702710/NumberofRides)
-
-	--IMAGE HERE--
-	"Checkout Times for Users"
+[link to dashboard](https://public.tableau.com/profile/tahira3223#!/vizhome/NumberofRides_16203860702710/NumberofRides)
 
 The second visualization provides the length of time that bikes are checked out for each Gender. 0=Female, 1=Male, 2="Unknown". As shown in the image, Males check out bikes for a longer amount of time, in comparison to their female, and unknown counterparts. 
 
