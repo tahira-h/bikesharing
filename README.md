@@ -13,8 +13,7 @@ Results of this Analysis
 
 The first visualization provides the length of time that bikes are checked out for all all riders. 
 
-[link to dashboard](https://public.tableau.com/profile/tahira3223#!/vizhome/NumberofRides_16203860702710/NumberofRides)
-
+[link to my dashboard](https://public.tableau.com/profile/tahira3223#!/vizhome/NumberofRides_16203860702710/NumberofRides)
 
 	--IMAGE HERE--
 	"Checkout Times for Users"
