@@ -41,7 +41,7 @@ Open the file containing Trips_by_Weekday_per_Hour.
 
 Close the file.
 	
-The fourth visualization provides the number of bike trips by gender for each hour of the week. As shown in the image, males has a higher amount of bike trips for each hour of the week. Females has the second highest amount of bike trips each week. Unknown genders have a low amount of bike trips each week. 
+The fourth visualization provides the number of bike trips by gender for each hour of the week. As shown in the image, males has a higher amount of bike trips for each hour of the week. Females has the second highest amount of bike trips each week. Unknown genders has the lowest amount of bike trips each week. 
 
 [link to dashboard](https://public.tableau.com/profile/tahira3223#!/vizhome/TripsbyGenderWeekdayperHour_16203868434960/TripsbyGenderWeekdayperHour?publish=yes) 
 
