@@ -86,7 +86,7 @@ SUMMARY
 
 Results and Two Additional Visualizations
 
-The results of this analysis provides visualization data that the bike-sharing program have a higher rate of males than females and unknown genders. Also, male and female subcribers have a higher rate of bike trips each hour for each day of the week, in comparison to its unknown subscribers. In addition, unknown customers have a higher rate of bike trips each hour for each day of the week, in comparison to its male and female customer counterparts with a lower rate of bike trips. 
+The results of this analysis provides visualization data that the bike-sharing program have a higher rate of males than its female and unknown counterparts. Also, male and female subcribers have a higher rate of bike trips each hour for each day of the week, in comparison to its unknown subscribers. In addition, unknown customers have a higher rate of bike trips each hour for each day of the week, in comparison to its male and female customer counterparts with a lower rate of bike trips. 
 
 Two additional visualizations suggested for future analysis is "Trips by Users (Weekday per Hour)" and "Trips by Users (Hours per Month)".
 
@@ -110,4 +110,4 @@ Open the file containing Trips_by_Users_Hours_per_Month.
 
 Close the file.
 	
-The ten visualizations in this analysis has data of customers and subcribers expected time of using a bike-sharing program, and when bikes are not used. This data provides the company with an effective time to pick up the bikes that needs to be picked up or fixed. The data and visualizations shared in this analysis confirms that a bike-sharing program in Des Moines is a solid business proposal. 
+The ten visualizations in this analysis provides the company with an effective time to pick up the bikes that needs to be fixed or relocated to a new destination. The data and visualizations shared in this analysis confirms that a bike-sharing program in Des Moines is a solid business proposal. 
