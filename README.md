@@ -72,7 +72,7 @@ Open the file containing Top_Starting_Location.
 
 Close the file.
 	
-The seventh visualization provides a geographical mapping location of the ending station latitude and ending station longitude of the bike rental starting points. As shown in the image, there is a geographical map of the bike rental ending points in Des Moines. 
+The seventh visualization provides a geographical mapping location of the ending station latitude and ending station longitude of the bike rental ending points. As shown in the image, there is a geographical map of the bike rental ending points in Des Moines. 
 
 [link to dashboard](https://public.tableau.com/profile/tahira3223#!/vizhome/TopEndingLocation/TopEndingLocation) 
 
