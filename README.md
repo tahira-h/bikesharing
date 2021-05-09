@@ -132,5 +132,5 @@ Open the file containing Trips_by_Users_Hours_per_Month.
 Close the file.
 	--IMAGE HERE--
 	"Trips by Users (Hours per Month)"
-
+	
 The ten visualizations in this analysis has data of customers and subcribers expected time of using a bike-sharing program, and when bikes are not used. This data provides the company with an effective time to pick up the bikes that needs to be picked up or fixed. The data and visualizations shared in this analysis confirms that a bike-sharing program in Des Moines is a solid business proposal. 
