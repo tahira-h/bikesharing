@@ -114,7 +114,7 @@ The first additional visualization provides the number of bike trips by customer
 
 Open the file containing Weekday_per_Hour.
 
-![Weekday_per_Hour](/resources_1/Weekday_per_Hour.png)
+![Weekday_per_Hour](resources_1/Trips_by_User_Weekday_per_Hour.png)
 
 Close the file.
 
