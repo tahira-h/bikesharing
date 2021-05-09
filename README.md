@@ -27,7 +27,7 @@ The second visualization provides the length of time that bikes are checked out 
 
 Open the file containing Checkout_Times_by_Gender.
 
-![Checkout_Times_by_Gender](/resources_1/Checkout_TImes_by_Gender.png)
+![Checkout_Times_by_Gender](/resources_1/Checkout_Times_by_Gender.png)
 
 Close the file.
 
